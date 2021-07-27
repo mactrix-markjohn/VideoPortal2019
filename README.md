@@ -1,2 +1,2 @@
-# VideoPortal2019
-Augmented Reality Portal for 360 films
+# VideoPortal
+An Augmented Reality app that immerses users into a 360 film
